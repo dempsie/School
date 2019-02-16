@@ -1,5 +1,5 @@
 public static void main(){
-System.out.printlin("tom is a dumbass");
+System.out.printlin("tom");
 
 }
 
